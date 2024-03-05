@@ -1,0 +1,9 @@
+:root {
+    --main-background: #1d1d1d;
+    --secondary-background: #272727;
+    --navbar: #252525;
+    --text: white
+}
+body{
+    color: white;
+}
